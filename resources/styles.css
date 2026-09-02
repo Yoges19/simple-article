@@ -97,16 +97,9 @@
 
 @media screen and (min-width: 1025px){
     h1{
-        max-width: 900px;
-        font-size: 2.75rem;
+        max-width: 700px;
     }
     #container{
-        max-width: 1000px;
-    }
-    .description {
-        font-size: 1.75rem;
-    }
-    time{
-        font-size: 1.3rem;
+        max-width: 800px;
     }
 }
