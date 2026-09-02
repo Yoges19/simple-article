@@ -18,6 +18,9 @@ You can use any tools or resources you like to complete this challenge. Each cha
 
 If you need help or have any questions, feel free to [join our community](https://github.com/orgs/devchallenges-io/discussions) and ask for support.
 
+## What i learn from this challenge
+
+Flexbox is powerful but can be tricky to learn. This challenge almost pissing me off because of the flexbox and images. The image are streched and nit showing the right size. Then i learned that i need to use `object-fit: cover` to make the image fit into that. I learned to set the max-width it really help me to fix the problems that i have earlier.
 ## Where to find everything
 
 Your goal is to build the project using the provided design. You can find the designs in the challenge editor once you start the challenge or in the `/design` folder. Please note that the `/design` folder may not include all the designs you need, so be sure to check the editor for more details.
